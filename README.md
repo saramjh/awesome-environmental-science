@@ -72,6 +72,7 @@ official data portal, or stable paper link).
 - [rgbif](https://github.com/ropensci/rgbif) - R interface to the Global Biodiversity Information Facility (GBIF) API.
 - [pygbif](https://github.com/sckott/pygbif) - Python client for the GBIF API.
 - [iNaturalist](https://github.com/inaturalist/inaturalist) - Open-source citizen-science platform for recording and identifying organisms.
+- [KoreAves](https://koreaves.com/) - Free English/Korean reference to source-linked historical bird observations in South Korea, with provenance and coverage limitations.
 - [PyTorch-Wildlife](https://github.com/microsoft/Pytorch-Wildlife) - Collaborative deep-learning framework and model zoo for conservation and wildlife monitoring.
 - [MegaDetector](https://github.com/microsoft/CameraTraps) - AI for detecting animals, people, and vehicles in camera-trap imagery.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - Deep-learning tool for automated bird sound identification.
